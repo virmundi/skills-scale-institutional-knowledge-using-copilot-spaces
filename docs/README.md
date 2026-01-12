@@ -2,11 +2,25 @@
 
 ## Overview
 
-OctoAcme's project management processes revolve around centralizing and standardizing organizational knowledge through a structured repository-based system, primarily housed in the `docs/` folder. Key workflows include extracting tacit insights from team members, refining them into searchable, versioned artifacts, and collaboratively iterating on documentation via GitHub's native tools. This involves creating pull requests for proposed changes, ensuring all updates are reviewed and validated before merging into the living documentation. Personas and roles are distributed across the team, with no single dependency point; contributors can propose refinements, while maintainers oversee consistency and accuracy to accelerate onboarding and enable repeatable execution.
+OctoAcme's project management processes revolve around centralizing and standardizing organizational knowledge through a structured repository-based system, primarily housed in the `docs/` folder.
 
-Communication strategies emphasize transparency and equal access, leveraging GitHub Issues and Pull Requests for discussions on processes, decisions, and rationale. Issue templates stored in `.github/ISSUE_TEMPLATE/` facilitate structured proposals for new or updated program process documents, allowing team members to articulate changes with clear context and rationale. This approach fosters asynchronous collaboration, where feedback loops ensure that scattered knowledge is connected and refined iteratively.
+**Key Workflows:**
+- Extract tacit insights from team members and refine them into searchable, versioned artifacts
+- Collaboratively iterate on documentation via GitHub's native tools
+- Create pull requests for proposed changes, ensuring all updates are reviewed and validated before merging
+- Distribute personas and roles across the team with no single dependency point
+- Enable contributors to propose refinements while maintainers oversee consistency and accuracy
 
-Quality assurance practices focus on version control and collaborative validation to prevent knowledge silos and ensure reliability. All documentation undergoes peer review during pull requests, with an emphasis on connecting artifacts to real-world workflows and feeding back improvements. This process reduces risks associated with tribal knowledge by creating standardized, searchable resources that support consistent project execution across the organization.
+**Communication Strategies:**
+- Emphasize transparency and equal access through GitHub Issues and Pull Requests
+- Use issue templates in `.github/ISSUE_TEMPLATE/` to facilitate structured proposals
+- Foster asynchronous collaboration where feedback loops connect and refine scattered knowledge iteratively
+
+**Quality Assurance Practices:**
+- Focus on version control and collaborative validation to prevent knowledge silos
+- Conduct peer review for all documentation during pull requests
+- Connect artifacts to real-world workflows and feed back improvements
+- Reduce risks associated with tribal knowledge by creating standardized, searchable resources
 
 ## Documentation Index
 
